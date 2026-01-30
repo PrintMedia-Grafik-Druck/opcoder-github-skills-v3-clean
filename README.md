@@ -36,7 +36,7 @@ Option 1 OAuth Device Flow Recommended - No configuration needed. The app will d
 Option 2 Environment Variables - Create a .env file: cp .env.example .env
 
 Edit .env:
-GITHUB_TOKEN=ghp_your_token_here
+GITHUB_TOKEN=your_personal_access_token
 GITHUB_CLIENT_ID=your_client_id
 TOPCODER_API_URL=https://api.topcoder-dev.com/v5
 AI_ENABLED=false
